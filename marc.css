@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background:rgba(252, 252, 252, 0.932);
+background-image: url(/img/marc.jpg);
+background-repeat: no-repeat;
+background-position:bottom -250px right 0px;;
+background-size: 50%;
+}
+
+.conteudo{
+    position: absolute;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 100px;
+    
+}
+
+p{
+    color:rgb(0, 0, 0);
+    margin-top: 3%;
+    font-size: 50px;
+    margin-left: 5%;
+    margin-right: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    width: 500px;
+    height: 80px;
+    padding: 0;
+    margin: 0;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.dia{
+    background-color: rgba (252, 252, 252, 0.932);
+    font-size: 30px;
+    box-shadow: 0 10px rgba(172, 172, 172, 0.1);
+}
+.noite{
+    background-color:rgb(2, 2, 2) ;
+    font-size: 30px;
+    color: white;
+    box-shadow: 0 10px rgba(172, 172, 172, 0.1);
+}
