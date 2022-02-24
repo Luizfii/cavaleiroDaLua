@@ -4,8 +4,10 @@
 }
 
 body{
-background-image: url(/cavaleiro.jpg) black no-repeat;
-background-size: 23%;
+    background:black;
+    background-image: url(/cavaleiro.jpg);
+    background-repeat: no-repeat;
+    background-size: 23%;
 }
 
 h1{
